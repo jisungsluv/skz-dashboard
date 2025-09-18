@@ -28,6 +28,7 @@ este dashboard, desenvolvido no power bi e publicado no serviço online, visuali
  - slicer para seleção de álbuns.
 
 
+
 ## 🛠️ tecnologias e recursos utilizados
  - power bi desktop / power bi service
  - dax (para medidas personalizadas)
@@ -41,4 +42,5 @@ este dashboard, desenvolvido no power bi e publicado no serviço online, visuali
  2. use os botões de navegação entre páginas.
  3. use os slicers (ano/álbum) para filtrar dados.
  4. clique nos gráficos para interagir e explorar insights.
+
 
