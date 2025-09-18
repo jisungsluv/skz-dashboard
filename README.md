@@ -27,19 +27,6 @@ este dashboard, desenvolvido no power bi e publicado no serviço online, visuali
  - gráficos comparativos de vendas.
  - slicer para seleção de álbuns.
 
- ## 📸 screenshots
-
-### visão geral
-![visão geral](img/visao-geral.png)
-
-### análise por ano
-![análise por ano](img/analise-ano.png)
-
-### top álbuns
-![top álbuns](img/top-albuns.png)
-
-
-
 
 ## 🛠️ tecnologias e recursos utilizados
  - power bi desktop / power bi service
