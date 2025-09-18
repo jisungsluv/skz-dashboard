@@ -21,9 +21,13 @@ este dashboard, desenvolvido no power bi e publicado no serviço online, visuali
 🥇 página “top álbuns”
  - ranking top 10 álbuns mais vendidos.
  - cards dinâmicos com:
+   <br>
      • nome do álbum mais vendido
+   <br>
      • suas vendas
+   <br>
      • nº de faixas
+   <br>
  - gráficos comparativos de vendas.
  - slicer para seleção de álbuns.
 
